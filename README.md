@@ -1,6 +1,6 @@
 # Hi, I'm Henry Williams 👋
 
-**Data Scientist | MSc Financial Technology | Python · NLP · Azure | Building ML and data science pipelines
+Data Scientist | MSc Financial Technology | Python · NLP · Azure | Building ML and data science pipelines
 
 ## 🎯 Current Focus
 - Data science and NLP pipeline development
@@ -13,5 +13,5 @@
 - Domain expertise: Payment gateways, trade finance, financial reporting
 
 ## 🛠️ Tech Stack
-**Python | SQL | Azure | Power BI | HuggingFace | PostgreSQL | Pandas | scikit-learn
+Python | SQL | Azure | Power BI | HuggingFace | PostgreSQL | Pandas | scikit-learn
 
