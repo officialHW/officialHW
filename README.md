@@ -6,11 +6,11 @@
 
 Hi, welcome to my virtual push & pull world.
 
-I've been on a trajectory deep into the world of data — because data is the
+I've been on a trajectory deep into the world of data, because data is the
 foundation of almost everything meaningful, including AI. I find that
 fascinating, and it keeps me going.
 
-Some of my work lives behind closed doors — client confidentiality comes
+Some of my work lives behind closed doors, client confidentiality comes
 first, so you won't always see a trace of it here. But I do push to GitHub
 regularly: projects that sharpen my thinking, and hopefully add something
 useful for anyone else who stumbles across them.
@@ -18,15 +18,15 @@ useful for anyone else who stumbles across them.
 ---
 
 ## 🎯 Current Focus
-- Data quality engineering — BDD frameworks, GreatExpectations, dbt
-- GCP data engineering — BigQuery, Pub/Sub, Dataflow
+- Data quality engineering: BDD frameworks, GreatExpectations, dbt
+- GCP data engineering: BigQuery, Pub/Sub, Dataflow
 - NLP and machine learning pipelines
 - Cloud data engineering on Azure and GCP
 
 ---
 
 ## 💡 What I Bring
-- 5+ years in banking & financial services (Zenith Bank, Heritage Bank, Unified Payments)
+- 5+ years in banking & financial services
 - Data engineering: Python, SQL, GCP, Azure, ETL pipelines
 - Data quality: GreatExpectations, dbt, BDD/Behave, automated testing
 - Domain expertise: Payment gateways, trade finance, financial reporting
