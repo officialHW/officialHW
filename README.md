@@ -71,4 +71,4 @@ useful for anyone else who stumbles across them.
 ---
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN-URL](https://www.linkedin.com/in/henryowilliams)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/henryowilliams)
