@@ -54,6 +54,7 @@ useful for anyone else who stumbles across them.
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Visualisation & ML**
 
@@ -62,13 +63,12 @@ useful for anyone else who stumbles across them.
 
 ---
 
-## 📊 GitHub Stats
 
-![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=officialHW&show_icons=true&theme=dark&hide_border=true)
+## 📊 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=officialHW&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN-URL](https://www.linkedin.com/in/henryowilliams)
