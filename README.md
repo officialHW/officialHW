@@ -1,6 +1,6 @@
 # Henry Williams
 
-## Data × AI × Fraud — made to click
+## Data × AI × Fraud - made to click
 
 > **Henry makes complicated things click.**
 >
@@ -12,7 +12,7 @@
 
 This profile is my public working space: projects, experiments, notes and practical examples that show how I think about data and the systems built around it.
 
-The subjects can move — data engineering, AI, fraud, financial systems, cloud, analytics and everyday technology — but the goal stays the same:
+The subjects can move - data engineering, AI, fraud, financial systems, cloud, analytics and everyday technology - but the goal stays the same:
 
 **take something complicated → make the mechanism visible → explain why it matters.**
 
@@ -77,30 +77,23 @@ The code matters, but so does understanding what the system is actually doing, w
 
 ## Tech I work with
 
-**Languages & Data**
+### Languages & Data
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,sql,pandas)](https://skillicons.dev)
 
-**Data Quality & Testing**
+### Data Quality & Testing
 
-![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF6B6B?style=for-the-badge&logoColor=white)
+![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF6B6B?style=for-the-badge)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Behave](https://img.shields.io/badge/Behave_BDD-25A244?style=for-the-badge&logoColor=white)
+![Behave](https://img.shields.io/badge/Behave_BDD-25A244?style=for-the-badge)
 
-**Cloud & Data Platforms**
+### Cloud & Data Platforms
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=gcp,azure,docker,githubactions)](https://skillicons.dev)
 
-**Analytics & ML**
+### Analytics & ML
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=powerbi,sklearn)](https://skillicons.dev)
 
 ---
 
