@@ -4,15 +4,15 @@
 
 > **Henry makes complicated things click.**
 >
-> I break down data, AI, fraud, risk and the systems behind everyday business into clear explanations, real examples and practical takeaways.
+> I explore data, AI, fraud, risk and the systems behind everyday business - breaking complicated ideas down into clear explanations, real examples and practical takeaways.
 
 ---
 
 ## What you'll find here
 
-This profile is my public working space: projects, experiments, notes and practical examples that show how I think about data and the systems built around it.
+This profile is my public working space: projects, experiments, notes and practical examples that show how I think about data, AI and the systems built around them.
 
-The subjects can move - data engineering, AI, fraud, financial systems, cloud, analytics and everyday technology - but the goal stays the same:
+The subject can move - from data engineering and AI to fraud, financial systems, technology, business and everyday situations - but the goal stays the same:
 
 **take something complicated → make the mechanism visible → explain why it matters.**
 
@@ -20,46 +20,48 @@ Some of my professional work cannot be shared because of confidentiality. The re
 
 ---
 
-## Current areas of work
+## Areas I explore
 
-### Data Engineering
-- Python & SQL
-- ETL / ELT pipelines
+### Data
+- Data engineering and pipelines
+- Data quality and validation
 - Data modelling and warehousing
-- Data quality and automated testing
-- GCP and Azure
+- Analytics and decision support
+- Cloud data platforms
 
-### AI & Machine Learning
-- Applied machine learning
+### AI
+- Applied AI and machine learning
 - NLP and document processing
 - AI-assisted workflows
-- Exploring how AI changes real business processes
+- AI systems and how they work in practice
+- The relationship between data and AI
 
-### Fraud, Risk & Financial Data
+### Fraud & Risk
 - Transaction and payment data
-- Anomaly detection and suspicious patterns
-- Data quality as a control mechanism
-- Financial and compliance use cases
+- Fraud patterns and anomaly detection
+- Financial systems and controls
+- Risk, compliance and real-world consequences
+- How data and technology can expose what is happening underneath a system
 
-### Analytics & Decision Support
-- Turning raw data into useful signals
-- Business intelligence and reporting
-- Power BI
-- Practical analysis for better decisions
+### Business & Technology
+- Financial services and business systems
+- Automation and emerging technology
+- Practical technology use cases
+- Breaking down the systems behind everyday experiences
 
 ---
 
 ## Featured work
 
-A few areas represented across my repositories:
+The repositories here cover different parts of the same broader territory:
 
 | Area | Examples |
 |---|---|
-| **Data engineering** | Data pipelines, warehousing, cloud data projects |
-| **Data quality** | Banking data-quality frameworks, testing and validation |
-| **Financial data** | Banking, payments, payroll and transaction-focused projects |
-| **AI / ML** | NLP, document extraction and machine-learning projects |
-| **Analytics** | Business analysis, dashboards and exploratory projects |
+| **Data** | Pipelines, databases, warehousing, data quality and analytics |
+| **AI / ML** | NLP, document processing and machine-learning projects |
+| **Fraud & risk** | Banking, payments, transaction data and control-focused work |
+| **Business systems** | Financial, ecommerce, logistics and operational projects |
+| **Learning & experiments** | New tools, technologies, frameworks and practical investigations |
 
 Browse the repositories below to see the implementation, decisions and trade-offs behind the work.
 
@@ -79,21 +81,25 @@ The code matters, but so does understanding what the system is actually doing, w
 
 ### Languages & Data
 
-[![My Skills](https://skillicons.dev/icons?i=python,sql,pandas)](https://skillicons.dev)
+[![Languages & Data](https://skillicons.dev/icons?i=python,sql,pandas)](https://skillicons.dev)
 
-### Data Quality & Testing
+### Data Engineering & Quality
+
+[![Data Engineering](https://skillicons.dev/icons?i=postgres,mysql,spark,databricks)](https://skillicons.dev)
 
 ![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF6B6B?style=for-the-badge)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Behave](https://img.shields.io/badge/Behave_BDD-25A244?style=for-the-badge)
 
-### Cloud & Data Platforms
+### Cloud & Infrastructure
 
-[![My Skills](https://skillicons.dev/icons?i=gcp,azure,docker,githubactions)](https://skillicons.dev)
+[![Cloud & Infrastructure](https://skillicons.dev/icons?i=gcp,azure,aws,docker,githubactions)](https://skillicons.dev)
 
-### Analytics & ML
+### AI, ML & Analytics
 
-[![My Skills](https://skillicons.dev/icons?i=powerbi,sklearn)](https://skillicons.dev)
+[![AI, ML & Analytics](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch)](https://skillicons.dev)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ---
 
