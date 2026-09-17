@@ -1,79 +1,119 @@
+<div align="center">
+
 # Henry Williams
 
-## Data × AI × Fraud - made to click
+### Data × AI × Fraud
 
-> **Henry makes complicated things click.**
->
-> I explore data, AI, fraud, risk and the systems behind everyday business - breaking complicated ideas down into clear explanations, real examples and practical takeaways.
+**Henry makes complicated things click.**
+
+I explore how data, AI, fraud and the systems behind everyday business actually work — then break them down into clear explanations, real examples and practical takeaways.
+
+<p>
+  <a href="https://www.linkedin.com/in/henryowilliams">LinkedIn</a>
+</p>
+
+</div>
 
 ---
 
-## What you'll find here
+## What this profile is about
 
-This profile is my public working space: projects, experiments, notes and practical examples that show how I think about data, AI and the systems built around them.
+This is my public working space: **projects, experiments, investigations and practical examples** showing how I think about complex systems.
 
-The subject can move - from data engineering and AI to fraud, financial systems, technology, business and everyday situations - but the goal stays the same:
+My subject matter can move across **data, AI, fraud, risk, financial systems, technology and business**. The constant is the way I approach them:
 
-**take something complicated → make the mechanism visible → explain why it matters.**
+> **Take something complicated → make the mechanism visible → explain why it matters.**
 
-Some of my professional work cannot be shared because of confidentiality. The repositories here are the work I can make public: things I'm building, learning from and using to turn ideas into working systems.
+Some of my professional work cannot be shared because of confidentiality. The repositories here are the work I can make public — things I'm building, learning from and using to turn ideas into working systems.
 
 ---
 
 ## Areas I explore
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Data
-- Data engineering and pipelines
-- Data quality and validation
-- Data modelling and warehousing
-- Analytics and decision support
+
+- Data engineering & pipelines
+- Data quality & validation
+- Data modelling & warehousing
+- Analytics & decision support
 - Cloud data platforms
 
+</td>
+<td width="50%" valign="top">
+
 ### AI
-- Applied AI and machine learning
-- NLP and document processing
+
+- Applied AI & machine learning
+- NLP & document processing
 - AI-assisted workflows
-- AI systems and how they work in practice
-- The relationship between data and AI
+- AI systems in practice
+- The relationship between data & AI
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### Fraud & Risk
-- Transaction and payment data
-- Fraud patterns and anomaly detection
-- Financial systems and controls
-- Risk, compliance and real-world consequences
-- How data and technology can expose what is happening underneath a system
+
+- Transaction & payment data
+- Fraud patterns & anomaly detection
+- Financial systems & controls
+- Risk & compliance
+- The data underneath suspicious activity
+
+</td>
+<td width="50%" valign="top">
 
 ### Business & Technology
-- Financial services and business systems
-- Automation and emerging technology
+
+- Financial & operational systems
+- Automation & emerging technology
 - Practical technology use cases
-- Breaking down the systems behind everyday experiences
+- The systems behind everyday experiences
+- Real-world consequences of technical decisions
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured work
-
-The repositories here cover different parts of the same broader territory:
+## What you'll find in the repositories
 
 | Area | Examples |
 |---|---|
 | **Data** | Pipelines, databases, warehousing, data quality and analytics |
 | **AI / ML** | NLP, document processing and machine-learning projects |
-| **Fraud & risk** | Banking, payments, transaction data and control-focused work |
-| **Business systems** | Financial, ecommerce, logistics and operational projects |
-| **Learning & experiments** | New tools, technologies, frameworks and practical investigations |
+| **Fraud & Risk** | Banking, payments, transaction data and control-focused work |
+| **Business Systems** | Financial, ecommerce, logistics and operational projects |
+| **Experiments** | New tools, technologies, frameworks and practical investigations |
 
-Browse the repositories below to see the implementation, decisions and trade-offs behind the work.
+The aim is not just to show the finished code, but the **thinking, implementation and trade-offs behind it**.
 
 ---
 
-## How I approach a problem
+## How I think about systems
 
-I tend to think about systems as a chain:
+```text
+Trigger
+   ↓
+Understand
+   ↓
+Decide
+   ↓
+Act
+   ↓
+Report
+```
 
-**Trigger → Understand → Decide → Act → Report**
+The code is only part of the story.
 
-The code matters, but so does understanding what the system is actually doing, what the data is telling us, and what changes as a result.
+I want to understand **what the system is doing, what the data is telling us, what decision follows, and what changes as a result.**
 
 ---
 
@@ -81,14 +121,13 @@ The code matters, but so does understanding what the system is actually doing, w
 
 ### Languages & Data
 
-[![Languages & Data](https://skillicons.dev/icons?i=python,sql,pandas)](https://skillicons.dev)
+[![Languages & Data](https://skillicons.dev/icons?i=python,sql,pandas,postgres,mysql)](https://skillicons.dev)
 
 ### Data Engineering & Quality
 
-[![Data Engineering](https://skillicons.dev/icons?i=postgres,mysql,spark,databricks)](https://skillicons.dev)
+[![Data Engineering](https://skillicons.dev/icons?i=spark,databricks,dbt)](https://skillicons.dev)
 
 ![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF6B6B?style=for-the-badge)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Behave](https://img.shields.io/badge/Behave_BDD-25A244?style=for-the-badge)
 
 ### Cloud & Infrastructure
@@ -103,20 +142,28 @@ The code matters, but so does understanding what the system is actually doing, w
 
 ---
 
-## Why this profile exists
-
-I'm building a body of work around a simple idea:
+## The idea behind the work
 
 > **Complicated systems become much more useful when people can actually understand them.**
 
-That means going beyond definitions and showing the mechanism, the data, the real-world consequence and, where relevant, the risk or opportunity hiding underneath.
+That means going beyond definitions and showing:
+
+**the mechanism → the data → the real-world consequence → the risk or opportunity.**
 
 This GitHub is one part of that body of work.
 
 ---
 
-## Connect
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henryowilliams)
+### Connect
 
-More work is added as I build, test and learn.
+<a href="https://www.linkedin.com/in/henryowilliams">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br><br>
+
+*More work is added as I build, test and learn.*
+
+</div>
