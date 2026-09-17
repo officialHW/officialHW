@@ -1,39 +1,81 @@
-# Hi, I'm Henry Williams 👋
+# Henry Williams
 
-**Data Engineer & Quality Specialist | Python · GCP · BDD · GreatExpectations | Banking & Financial Services**
+## Data × AI × Fraud — made to click
 
----
-
-Hi, welcome to my virtual push & pull world.
-
-I've been on a trajectory deep into the world of data, because data is the
-foundation of almost everything meaningful, including AI. I find that
-fascinating, and it keeps me going.
-
-Some of my work lives behind closed doors, client confidentiality comes
-first, so you won't always see a trace of it here. But I do push to GitHub
-regularly: projects that sharpen my thinking, and hopefully add something
-useful for anyone else who stumbles across them.
+> **Henry makes complicated things click.**
+>
+> I break down data, AI, fraud, risk and the systems behind everyday business into clear explanations, real examples and practical takeaways.
 
 ---
 
-## 🎯 Current Focus
-- Data quality engineering: BDD frameworks, GreatExpectations, dbt
-- GCP data engineering: BigQuery, Pub/Sub, Dataflow
-- NLP and machine learning pipelines
-- Cloud data engineering on Azure and GCP
+## What you'll find here
+
+This profile is my public working space: projects, experiments, notes and practical examples that show how I think about data and the systems built around it.
+
+The subjects can move — data engineering, AI, fraud, financial systems, cloud, analytics and everyday technology — but the goal stays the same:
+
+**take something complicated → make the mechanism visible → explain why it matters.**
+
+Some of my professional work cannot be shared because of confidentiality. The repositories here are the work I can make public: things I'm building, learning from and using to turn ideas into working systems.
 
 ---
 
-## 💡 What I Bring
-- 5+ years in banking & financial services
-- Data engineering: Python, SQL, GCP, Azure, ETL pipelines
-- Data quality: GreatExpectations, dbt, BDD/Behave, automated testing
-- Domain expertise: Payment gateways, trade finance, financial reporting
+## Current areas of work
+
+### Data Engineering
+- Python & SQL
+- ETL / ELT pipelines
+- Data modelling and warehousing
+- Data quality and automated testing
+- GCP and Azure
+
+### AI & Machine Learning
+- Applied machine learning
+- NLP and document processing
+- AI-assisted workflows
+- Exploring how AI changes real business processes
+
+### Fraud, Risk & Financial Data
+- Transaction and payment data
+- Anomaly detection and suspicious patterns
+- Data quality as a control mechanism
+- Financial and compliance use cases
+
+### Analytics & Decision Support
+- Turning raw data into useful signals
+- Business intelligence and reporting
+- Power BI
+- Practical analysis for better decisions
 
 ---
 
-## 🛠️ Tech Stack
+## Featured work
+
+A few areas represented across my repositories:
+
+| Area | Examples |
+|---|---|
+| **Data engineering** | Data pipelines, warehousing, cloud data projects |
+| **Data quality** | Banking data-quality frameworks, testing and validation |
+| **Financial data** | Banking, payments, payroll and transaction-focused projects |
+| **AI / ML** | NLP, document extraction and machine-learning projects |
+| **Analytics** | Business analysis, dashboards and exploratory projects |
+
+Browse the repositories below to see the implementation, decisions and trade-offs behind the work.
+
+---
+
+## How I approach a problem
+
+I tend to think about systems as a chain:
+
+**Trigger → Understand → Decide → Act → Report**
+
+The code matters, but so does understanding what the system is actually doing, what the data is telling us, and what changes as a result.
+
+---
+
+## Tech I work with
 
 **Languages & Data**
 
@@ -43,24 +85,39 @@ useful for anyone else who stumbles across them.
 
 **Data Quality & Testing**
 
-![GreatExpectations](https://img.shields.io/badge/Great_Expectations-FF6B6B?style=for-the-badge&logoColor=white)
+![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF6B6B?style=for-the-badge&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Behave](https://img.shields.io/badge/Behave_BDD-25A244?style=for-the-badge&logoColor=white)
 
-**Cloud & Infrastructure**
+**Cloud & Data Platforms**
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-**Visualisation & ML**
+**Analytics & ML**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-## 📫 Connect
+## Why this profile exists
+
+I'm building a body of work around a simple idea:
+
+> **Complicated systems become much more useful when people can actually understand them.**
+
+That means going beyond definitions and showing the mechanism, the data, the real-world consequence and, where relevant, the risk or opportunity hiding underneath.
+
+This GitHub is one part of that body of work.
+
+---
+
+## Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henryowilliams)
+
+More work is added as I build, test and learn.
